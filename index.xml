@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nasreen&#39;s Blog</title>
-    <link>https://nazreenpe.github.io/blog/</link>
-    <description>Recent content on Nasreen&#39;s Blog</description>
+    <title>Code Journal</title>
+    <link>https://nasreen.dev/</link>
+    <description>Recent content on Code Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 10 Aug 2019 11:47:56 -0700</lastBuildDate>
     
-	<atom:link href="https://nazreenpe.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nasreen.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Blog Post</title>
-      <link>https://nazreenpe.github.io/blog/post/first-blog-post/</link>
+      <link>https://nasreen.dev/post/first-blog-post/</link>
       <pubDate>Sat, 10 Aug 2019 11:47:56 -0700</pubDate>
       
-      <guid>https://nazreenpe.github.io/blog/post/first-blog-post/</guid>
+      <guid>https://nasreen.dev/post/first-blog-post/</guid>
       <description>Example</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://nazreenpe.github.io/blog/page/about/</link>
+      <link>https://nasreen.dev/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nazreenpe.github.io/blog/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <guid>https://nasreen.dev/page/about/</guid>
+      <description>Hey! I am Nasreen, a Web Developer from San Francisco. If you are eager to know the name of that Silicon Valley company I work for, it is coming soon.. ( hello recruiters, this smart techie is available in the job market. )
+My interests and background is as diverse as the city. A Mechanical Engineer turned Nanotechnologist, who almost wanted to be a Journalist but found joy and peace in Programming.</description>
     </item>
     
   </channel>

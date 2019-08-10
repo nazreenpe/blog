@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Nasreen&#39;s Blog</title>
-    <link>https://nazreenpe.github.io/blog/page/</link>
-    <description>Recent content in Pages on Nasreen&#39;s Blog</description>
+    <title>Pages on Code Journal</title>
+    <link>https://nasreen.dev/page/</link>
+    <description>Recent content in Pages on Code Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://nazreenpe.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nasreen.dev/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://nazreenpe.github.io/blog/page/about/</link>
+      <link>https://nasreen.dev/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nazreenpe.github.io/blog/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <guid>https://nasreen.dev/page/about/</guid>
+      <description>Hey! I am Nasreen, a Web Developer from San Francisco. If you are eager to know the name of that Silicon Valley company I work for, it is coming soon.. ( hello recruiters, this smart techie is available in the job market. )
+My interests and background is as diverse as the city. A Mechanical Engineer turned Nanotechnologist, who almost wanted to be a Journalist but found joy and peace in Programming.</description>
     </item>
     
   </channel>
