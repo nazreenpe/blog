@@ -1,16 +1,16 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey! I am Nasreen, a Web Developer from _San Francisco_. If you are eager to know the name of that Silicon Valley company I work for, it is _coming soon.._ ( hello recruiters, this smart techie is available in the job market. )
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My interests and background is as diverse as the city. A _Mechanical Engineer_ turned _Nanotechnologist_, who almost wanted to be a _Journalist_ but found joy and peace in Programming. If it was a movie, this would have been my _'happily ever after'_ moment. But let's go with _'and that's how she started her journey as a programmer...'_
 
-What else do you need?
+I am a ```Java``` enthusiast and uses ```Spring Boot``` for web development. I code in ```[Python, SQL, R and Ruby]``` on and off. _Javascript_ is next in line to learn.
 
-### my history
+This blog is a journal of my coding journey. Things I learned, glitches I have encountered and troubleshooted, my experience with getting to know the tech community,  beginners guide to _'networking'_ and all that came along the way.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+And yes! Welcome to my blog.
+If my blogs could help to make your coding journey a little easier, please let me know.

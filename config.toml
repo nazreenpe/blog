@@ -1,7 +1,7 @@
 baseurl = "https://nasreen.dev"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Nasreen's Blog"
+title = "Code Journal"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -16,7 +16,7 @@ publishdir = "dist"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Things I learned as a developer"
+  subtitle = "Nasreen Habeeb Ur Rahiman"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
